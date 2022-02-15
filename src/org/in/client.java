@@ -18,5 +18,7 @@ public static void main(String[] args) {
 	c.dataID();
 	c.dataname();
 	
+	System.out.println(c);
+	
 }
 }
